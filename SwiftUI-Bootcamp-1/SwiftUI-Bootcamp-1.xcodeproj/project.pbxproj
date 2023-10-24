@@ -13,6 +13,7 @@
 		CE52E5BF2AE7A7730019BEE7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE52E5BE2AE7A7730019BEE7 /* Preview Assets.xcassets */; };
 		CE52E5C62AE7A7C50019BEE7 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE52E5C52AE7A7C50019BEE7 /* TextBootcamp.swift */; };
 		CE52E5C82AE7AD5C0019BEE7 /* ShapeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE52E5C72AE7AD5C0019BEE7 /* ShapeBootcamp.swift */; };
+		CE52E5CA2AE7B0FF0019BEE7 /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE52E5C92AE7B0FF0019BEE7 /* ColorBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CE52E5BE2AE7A7730019BEE7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE52E5C52AE7A7C50019BEE7 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		CE52E5C72AE7AD5C0019BEE7 /* ShapeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeBootcamp.swift; sourceTree = "<group>"; };
+		CE52E5C92AE7B0FF0019BEE7 /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				CE52E5B82AE7A7710019BEE7 /* ContentView.swift */,
 				CE52E5C52AE7A7C50019BEE7 /* TextBootcamp.swift */,
 				CE52E5C72AE7AD5C0019BEE7 /* ShapeBootcamp.swift */,
+				CE52E5C92AE7B0FF0019BEE7 /* ColorBootcamp.swift */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
 				CE52E5BD2AE7A7730019BEE7 /* Preview Content */,
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE52E5CA2AE7B0FF0019BEE7 /* ColorBootcamp.swift in Sources */,
 				CE52E5C82AE7AD5C0019BEE7 /* ShapeBootcamp.swift in Sources */,
 				CE52E5B92AE7A7710019BEE7 /* ContentView.swift in Sources */,
 				CE52E5C62AE7A7C50019BEE7 /* TextBootcamp.swift in Sources */,

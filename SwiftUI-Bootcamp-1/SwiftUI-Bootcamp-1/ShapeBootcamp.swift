@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ShapeBootcamp: View {
     var body: some View {
-        VStack(spacing: 20) {
+        VStack(spacing: 30) {
             // Створює коло
             Circle()
             // Змінює колір фігури
