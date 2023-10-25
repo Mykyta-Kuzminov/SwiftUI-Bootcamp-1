@@ -20,6 +20,7 @@
 		CED75BD42AE930D50054C266 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED75BD32AE930D50054C266 /* FrameBootcamp.swift */; };
 		CED75BD62AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED75BD52AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift */; };
 		CED75BD82AE939A30054C266 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED75BD72AE939A30054C266 /* StacksBootcamp.swift */; };
+		CED75BDA2AE93C6E0054C266 /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED75BD92AE93C6D0054C266 /* PaddingAndSpacerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		CED75BD32AE930D50054C266 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		CED75BD52AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		CED75BD72AE939A30054C266 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
+		CED75BD92AE93C6D0054C266 /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				CED75BD32AE930D50054C266 /* FrameBootcamp.swift */,
 				CED75BD52AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift */,
 				CED75BD72AE939A30054C266 /* StacksBootcamp.swift */,
+				CED75BD92AE93C6D0054C266 /* PaddingAndSpacerBootcamp.swift */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
 				CE52E5BD2AE7A7730019BEE7 /* Preview Content */,
@@ -168,6 +171,7 @@
 			files = (
 				CE52E5CA2AE7B0FF0019BEE7 /* ColorBootcamp.swift in Sources */,
 				CED75BD62AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				CED75BDA2AE93C6E0054C266 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				CE52E5C82AE7AD5C0019BEE7 /* ShapeBootcamp.swift in Sources */,
 				CED75BD42AE930D50054C266 /* FrameBootcamp.swift in Sources */,
 				CE52E5CE2AE7B6180019BEE7 /* IconBootcamp.swift in Sources */,
