@@ -19,6 +19,7 @@
 		CE8C22F02AE9163A0063EF5A /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8C22EF2AE9163A0063EF5A /* ImageBootcamp.swift */; };
 		CED75BD42AE930D50054C266 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED75BD32AE930D50054C266 /* FrameBootcamp.swift */; };
 		CED75BD62AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED75BD52AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift */; };
+		CED75BD82AE939A30054C266 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED75BD72AE939A30054C266 /* StacksBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		CE8C22EF2AE9163A0063EF5A /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		CED75BD32AE930D50054C266 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		CED75BD52AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
+		CED75BD72AE939A30054C266 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				CE8C22EF2AE9163A0063EF5A /* ImageBootcamp.swift */,
 				CED75BD32AE930D50054C266 /* FrameBootcamp.swift */,
 				CED75BD52AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift */,
+				CED75BD72AE939A30054C266 /* StacksBootcamp.swift */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
 				CE52E5BD2AE7A7730019BEE7 /* Preview Content */,
@@ -171,6 +174,7 @@
 				CE52E5B92AE7A7710019BEE7 /* ContentView.swift in Sources */,
 				CE52E5C62AE7A7C50019BEE7 /* TextBootcamp.swift in Sources */,
 				CE52E5CC2AE7B38E0019BEE7 /* GradientBootcamp.swift in Sources */,
+				CED75BD82AE939A30054C266 /* StacksBootcamp.swift in Sources */,
 				CE8C22F02AE9163A0063EF5A /* ImageBootcamp.swift in Sources */,
 				CE52E5B72AE7A7710019BEE7 /* SwiftUI_Bootcamp_1App.swift in Sources */,
 			);
