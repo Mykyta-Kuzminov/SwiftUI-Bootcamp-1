@@ -16,6 +16,7 @@
 		CE52E5CA2AE7B0FF0019BEE7 /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE52E5C92AE7B0FF0019BEE7 /* ColorBootcamp.swift */; };
 		CE52E5CC2AE7B38E0019BEE7 /* GradientBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE52E5CB2AE7B38E0019BEE7 /* GradientBootcamp.swift */; };
 		CE52E5CE2AE7B6180019BEE7 /* IconBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE52E5CD2AE7B6180019BEE7 /* IconBootcamp.swift */; };
+		CE8C22F02AE9163A0063EF5A /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8C22EF2AE9163A0063EF5A /* ImageBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		CE52E5C92AE7B0FF0019BEE7 /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
 		CE52E5CB2AE7B38E0019BEE7 /* GradientBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBootcamp.swift; sourceTree = "<group>"; };
 		CE52E5CD2AE7B6180019BEE7 /* IconBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBootcamp.swift; sourceTree = "<group>"; };
+		CE8C22EF2AE9163A0063EF5A /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				CE52E5C92AE7B0FF0019BEE7 /* ColorBootcamp.swift */,
 				CE52E5CB2AE7B38E0019BEE7 /* GradientBootcamp.swift */,
 				CE52E5CD2AE7B6180019BEE7 /* IconBootcamp.swift */,
+				CE8C22EF2AE9163A0063EF5A /* ImageBootcamp.swift */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
 				CE52E5BD2AE7A7730019BEE7 /* Preview Content */,
@@ -160,6 +163,7 @@
 				CE52E5B92AE7A7710019BEE7 /* ContentView.swift in Sources */,
 				CE52E5C62AE7A7C50019BEE7 /* TextBootcamp.swift in Sources */,
 				CE52E5CC2AE7B38E0019BEE7 /* GradientBootcamp.swift in Sources */,
+				CE8C22F02AE9163A0063EF5A /* ImageBootcamp.swift in Sources */,
 				CE52E5B72AE7A7710019BEE7 /* SwiftUI_Bootcamp_1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
