@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE3C2C182AEC062700F142EA /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3C2C172AEC062600F142EA /* SafeAreaBootcamp.swift */; };
 		CE52E5B72AE7A7710019BEE7 /* SwiftUI_Bootcamp_1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE52E5B62AE7A7710019BEE7 /* SwiftUI_Bootcamp_1App.swift */; };
 		CE52E5B92AE7A7710019BEE7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE52E5B82AE7A7710019BEE7 /* ContentView.swift */; };
 		CE52E5BB2AE7A7730019BEE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */; };
@@ -29,6 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE3C2C172AEC062600F142EA /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		CE52E5B32AE7A7710019BEE7 /* SwiftUI-Bootcamp-1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Bootcamp-1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE52E5B62AE7A7710019BEE7 /* SwiftUI_Bootcamp_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Bootcamp_1App.swift; sourceTree = "<group>"; };
 		CE52E5B82AE7A7710019BEE7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				CE6BE5292AEAA30600D4753D /* ForEachBootcamp.swift */,
 				CE6BE52B2AEAA81800D4753D /* ScrollViewBootcamp.swift */,
 				CE6BE52D2AEAAC1400D4753D /* GridItemBootcamp.swift */,
+				CE3C2C172AEC062600F142EA /* SafeAreaBootcamp.swift */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
 				CE52E5BD2AE7A7730019BEE7 /* Preview Content */,
@@ -192,6 +195,7 @@
 				CED75BD42AE930D50054C266 /* FrameBootcamp.swift in Sources */,
 				CE6BE5282AEA9E8100D4753D /* InitializerBootcamp.swift in Sources */,
 				CE52E5CE2AE7B6180019BEE7 /* IconBootcamp.swift in Sources */,
+				CE3C2C182AEC062700F142EA /* SafeAreaBootcamp.swift in Sources */,
 				CE52E5B92AE7A7710019BEE7 /* ContentView.swift in Sources */,
 				CE6BE52A2AEAA30600D4753D /* ForEachBootcamp.swift in Sources */,
 				CE52E5C62AE7A7C50019BEE7 /* TextBootcamp.swift in Sources */,
