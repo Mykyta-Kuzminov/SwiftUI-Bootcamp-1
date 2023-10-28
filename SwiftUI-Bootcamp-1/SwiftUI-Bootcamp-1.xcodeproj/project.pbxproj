@@ -35,6 +35,7 @@
 		CEDE1EB52AED22F80012AABC /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EB42AED22F80012AABC /* AnimationBootcamp.swift */; };
 		CEDE1EB72AED26DA0012AABC /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EB62AED26DA0012AABC /* TransitionBootcamp.swift */; };
 		CEDE1EB92AED2BBD0012AABC /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EB82AED2BBD0012AABC /* SheetsBootcamp.swift */; };
+		CEDE1EBB2AED367F0012AABC /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EBA2AED367F0012AABC /* NavigationViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +69,7 @@
 		CEDE1EB42AED22F80012AABC /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 		CEDE1EB62AED26DA0012AABC /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 		CEDE1EB82AED2BBD0012AABC /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
+		CEDE1EBA2AED367F0012AABC /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 				CEDE1EB42AED22F80012AABC /* AnimationBootcamp.swift */,
 				CEDE1EB62AED26DA0012AABC /* TransitionBootcamp.swift */,
 				CEDE1EB82AED2BBD0012AABC /* SheetsBootcamp.swift */,
+				CEDE1EBA2AED367F0012AABC /* NavigationViewBootcamp.swift */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
 				CE52E5BD2AE7A7730019BEE7 /* Preview Content */,
@@ -219,6 +222,7 @@
 				CED75BDA2AE93C6E0054C266 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				CE52E5C82AE7AD5C0019BEE7 /* ShapeBootcamp.swift in Sources */,
 				CED75BD42AE930D50054C266 /* FrameBootcamp.swift in Sources */,
+				CEDE1EBB2AED367F0012AABC /* NavigationViewBootcamp.swift in Sources */,
 				CE6BE5282AEA9E8100D4753D /* InitializerBootcamp.swift in Sources */,
 				CE52E5CE2AE7B6180019BEE7 /* IconBootcamp.swift in Sources */,
 				CEDE1EB92AED2BBD0012AABC /* SheetsBootcamp.swift in Sources */,
