@@ -34,6 +34,7 @@
 		CEDE1EB32AED1C9D0012AABC /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EB22AED1C9D0012AABC /* BindingBootcamp.swift */; };
 		CEDE1EB52AED22F80012AABC /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EB42AED22F80012AABC /* AnimationBootcamp.swift */; };
 		CEDE1EB72AED26DA0012AABC /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EB62AED26DA0012AABC /* TransitionBootcamp.swift */; };
+		CEDE1EB92AED2BBD0012AABC /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EB82AED2BBD0012AABC /* SheetsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +67,7 @@
 		CEDE1EB22AED1C9D0012AABC /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		CEDE1EB42AED22F80012AABC /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 		CEDE1EB62AED26DA0012AABC /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
+		CEDE1EB82AED2BBD0012AABC /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 				CEDE1EB22AED1C9D0012AABC /* BindingBootcamp.swift */,
 				CEDE1EB42AED22F80012AABC /* AnimationBootcamp.swift */,
 				CEDE1EB62AED26DA0012AABC /* TransitionBootcamp.swift */,
+				CEDE1EB82AED2BBD0012AABC /* SheetsBootcamp.swift */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
 				CE52E5BD2AE7A7730019BEE7 /* Preview Content */,
@@ -218,6 +221,7 @@
 				CED75BD42AE930D50054C266 /* FrameBootcamp.swift in Sources */,
 				CE6BE5282AEA9E8100D4753D /* InitializerBootcamp.swift in Sources */,
 				CE52E5CE2AE7B6180019BEE7 /* IconBootcamp.swift in Sources */,
+				CEDE1EB92AED2BBD0012AABC /* SheetsBootcamp.swift in Sources */,
 				CE3C2C182AEC062700F142EA /* SafeAreaBootcamp.swift in Sources */,
 				CE52E5B92AE7A7710019BEE7 /* ContentView.swift in Sources */,
 				CE6BE52A2AEAA30600D4753D /* ForEachBootcamp.swift in Sources */,
