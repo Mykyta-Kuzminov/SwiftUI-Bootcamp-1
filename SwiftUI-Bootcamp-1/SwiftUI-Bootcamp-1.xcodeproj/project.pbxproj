@@ -33,6 +33,7 @@
 		CED75BDA2AE93C6E0054C266 /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED75BD92AE93C6D0054C266 /* PaddingAndSpacerBootcamp.swift */; };
 		CEDE1EB32AED1C9D0012AABC /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EB22AED1C9D0012AABC /* BindingBootcamp.swift */; };
 		CEDE1EB52AED22F80012AABC /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EB42AED22F80012AABC /* AnimationBootcamp.swift */; };
+		CEDE1EB72AED26DA0012AABC /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EB62AED26DA0012AABC /* TransitionBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		CED75BD92AE93C6D0054C266 /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
 		CEDE1EB22AED1C9D0012AABC /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		CEDE1EB42AED22F80012AABC /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
+		CEDE1EB62AED26DA0012AABC /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				CE3C2C1F2AEC18D200F142EA /* ExtractedSubviewsBootcamp.swift */,
 				CEDE1EB22AED1C9D0012AABC /* BindingBootcamp.swift */,
 				CEDE1EB42AED22F80012AABC /* AnimationBootcamp.swift */,
+				CEDE1EB62AED26DA0012AABC /* TransitionBootcamp.swift */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
 				CE52E5BD2AE7A7730019BEE7 /* Preview Content */,
@@ -207,6 +210,7 @@
 			files = (
 				CE3C2C1C2AEC0E0D00F142EA /* StateBootcamp.swift in Sources */,
 				CE52E5CA2AE7B0FF0019BEE7 /* ColorBootcamp.swift in Sources */,
+				CEDE1EB72AED26DA0012AABC /* TransitionBootcamp.swift in Sources */,
 				CED75BD62AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				CE6BE52C2AEAA81800D4753D /* ScrollViewBootcamp.swift in Sources */,
 				CED75BDA2AE93C6E0054C266 /* PaddingAndSpacerBootcamp.swift in Sources */,
