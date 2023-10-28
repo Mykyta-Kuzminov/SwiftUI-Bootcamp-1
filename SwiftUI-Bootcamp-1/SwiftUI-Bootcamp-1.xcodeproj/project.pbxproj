@@ -31,6 +31,7 @@
 		CED75BD62AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED75BD52AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift */; };
 		CED75BD82AE939A30054C266 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED75BD72AE939A30054C266 /* StacksBootcamp.swift */; };
 		CED75BDA2AE93C6E0054C266 /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED75BD92AE93C6D0054C266 /* PaddingAndSpacerBootcamp.swift */; };
+		CEDE1EB32AED1C9D0012AABC /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EB22AED1C9D0012AABC /* BindingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		CED75BD52AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		CED75BD72AE939A30054C266 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		CED75BD92AE93C6D0054C266 /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
+		CEDE1EB22AED1C9D0012AABC /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				CE3C2C1B2AEC0E0D00F142EA /* StateBootcamp.swift */,
 				CE3C2C1D2AEC14FB00F142EA /* ExtractedFunctionBootcamp.swift */,
 				CE3C2C1F2AEC18D200F142EA /* ExtractedSubviewsBootcamp.swift */,
+				CEDE1EB22AED1C9D0012AABC /* BindingBootcamp.swift */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
 				CE52E5BD2AE7A7730019BEE7 /* Preview Content */,
@@ -217,6 +220,7 @@
 				CE52E5CC2AE7B38E0019BEE7 /* GradientBootcamp.swift in Sources */,
 				CED75BD82AE939A30054C266 /* StacksBootcamp.swift in Sources */,
 				CE6BE5262AEA9A8B00D4753D /* SpacerBootcamp.swift in Sources */,
+				CEDE1EB32AED1C9D0012AABC /* BindingBootcamp.swift in Sources */,
 				CE8C22F02AE9163A0063EF5A /* ImageBootcamp.swift in Sources */,
 				CE6BE52E2AEAAC1400D4753D /* GridItemBootcamp.swift in Sources */,
 				CE52E5B72AE7A7710019BEE7 /* SwiftUI_Bootcamp_1App.swift in Sources */,
