@@ -37,6 +37,7 @@
 		CEDE1EB92AED2BBD0012AABC /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EB82AED2BBD0012AABC /* SheetsBootcamp.swift */; };
 		CEDE1EBB2AED367F0012AABC /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1EBA2AED367F0012AABC /* NavigationViewBootcamp.swift */; };
 		CEEB52C42AEE45FA007CD5D6 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEB52C32AEE45FA007CD5D6 /* ListBootcamp.swift */; };
+		CEEB52C62AEE98CA007CD5D6 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEB52C52AEE98CA007CD5D6 /* AlertBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +73,7 @@
 		CEDE1EB82AED2BBD0012AABC /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		CEDE1EBA2AED367F0012AABC /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		CEEB52C32AEE45FA007CD5D6 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
+		CEEB52C52AEE98CA007CD5D6 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 				CEDE1EB82AED2BBD0012AABC /* SheetsBootcamp.swift */,
 				CEDE1EBA2AED367F0012AABC /* NavigationViewBootcamp.swift */,
 				CEEB52C32AEE45FA007CD5D6 /* ListBootcamp.swift */,
+				CEEB52C52AEE98CA007CD5D6 /* AlertBootcamp.swift */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
 				CE52E5BD2AE7A7730019BEE7 /* Preview Content */,
@@ -217,6 +220,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEEB52C62AEE98CA007CD5D6 /* AlertBootcamp.swift in Sources */,
 				CE3C2C1C2AEC0E0D00F142EA /* StateBootcamp.swift in Sources */,
 				CE52E5CA2AE7B0FF0019BEE7 /* ColorBootcamp.swift in Sources */,
 				CEDE1EB72AED26DA0012AABC /* TransitionBootcamp.swift in Sources */,
