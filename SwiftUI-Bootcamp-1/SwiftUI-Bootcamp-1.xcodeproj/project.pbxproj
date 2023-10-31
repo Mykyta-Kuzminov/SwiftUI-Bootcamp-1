@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE1CBBB42AF174C100CF7CBD /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1CBBB32AF174C100CF7CBD /* TabViewBootcamp.swift */; };
 		CE3C2C182AEC062700F142EA /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3C2C172AEC062600F142EA /* SafeAreaBootcamp.swift */; };
 		CE3C2C1A2AEC0A7800F142EA /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3C2C192AEC0A7800F142EA /* ButtonBootcamp.swift */; };
 		CE3C2C1C2AEC0E0D00F142EA /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3C2C1B2AEC0E0D00F142EA /* StateBootcamp.swift */; };
@@ -50,6 +51,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE1CBBB32AF174C100CF7CBD /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		CE3C2C172AEC062600F142EA /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		CE3C2C192AEC0A7800F142EA /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
 		CE3C2C1B2AEC0E0D00F142EA /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
@@ -162,6 +164,7 @@
 				CE8780FA2AF00D2800B42006 /* DatePickerBootcamp.swift */,
 				CEB7C5B02AF165220001847D /* StepperBootcamp.swift */,
 				CEB7C5B22AF16ABF0001847D /* SliderBootcamp.swift */,
+				CE1CBBB32AF174C100CF7CBD /* TabViewBootcamp.swift */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
 				CE52E5BD2AE7A7730019BEE7 /* Preview Content */,
@@ -248,6 +251,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEB7C5B12AF165220001847D /* StepperBootcamp.swift in Sources */,
+				CE1CBBB42AF174C100CF7CBD /* TabViewBootcamp.swift in Sources */,
 				CE8780FB2AF00D2800B42006 /* DatePickerBootcamp.swift in Sources */,
 				CEEB52C62AEE98CA007CD5D6 /* AlertBootcamp.swift in Sources */,
 				CE3C2C1C2AEC0E0D00F142EA /* StateBootcamp.swift in Sources */,
