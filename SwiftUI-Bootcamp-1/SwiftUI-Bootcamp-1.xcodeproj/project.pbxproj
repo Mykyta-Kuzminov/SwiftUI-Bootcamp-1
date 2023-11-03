@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE104AFE2AF54F3B00C0B8BB /* EnvironmentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE104AFD2AF54F3B00C0B8BB /* EnvironmentViewModel.swift */; };
+		CE104B002AF5505300C0B8BB /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE104AFF2AF5505300C0B8BB /* EnvironmentObjectBootcamp.swift */; };
 		CE1CBBB42AF174C100CF7CBD /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1CBBB32AF174C100CF7CBD /* TabViewBootcamp.swift */; };
 		CE1CBBB62AF177FB00CF7CBD /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1CBBB52AF177FA00CF7CBD /* DarkModeBootcamp.swift */; };
 		CE3C2C182AEC062700F142EA /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3C2C172AEC062600F142EA /* SafeAreaBootcamp.swift */; };
@@ -59,6 +61,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE104AFD2AF54F3B00C0B8BB /* EnvironmentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentViewModel.swift; sourceTree = "<group>"; };
+		CE104AFF2AF5505300C0B8BB /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
 		CE1CBBB32AF174C100CF7CBD /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		CE1CBBB52AF177FA00CF7CBD /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
 		CE3C2C172AEC062600F142EA /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
@@ -208,6 +212,8 @@
 				CEA8FA3A2AF404F000834A84 /* ViewModel.swift */,
 				CEA8FA3C2AF4057A00834A84 /* StateObjectBootcamp.swift */,
 				CEA8FA3F2AF409A700834A84 /* ObservedObjectBootcamp.swift */,
+				CE104AFD2AF54F3B00C0B8BB /* EnvironmentViewModel.swift */,
+				CE104AFF2AF5505300C0B8BB /* EnvironmentObjectBootcamp.swift */,
 			);
 			path = PropertyWrappers;
 			sourceTree = "<group>";
@@ -305,6 +311,7 @@
 				CE52E5CE2AE7B6180019BEE7 /* IconBootcamp.swift in Sources */,
 				CEA8FA392AF4049700834A84 /* Model.swift in Sources */,
 				CEDE1EB92AED2BBD0012AABC /* SheetsBootcamp.swift in Sources */,
+				CE104AFE2AF54F3B00C0B8BB /* EnvironmentViewModel.swift in Sources */,
 				CE8780F92AF0096100B42006 /* ColorPickerBootcamp.swift in Sources */,
 				CEF5E1C92AF28A2A00A742D9 /* DocumentationBootcamp.swift in Sources */,
 				CE3C2C182AEC062700F142EA /* SafeAreaBootcamp.swift in Sources */,
@@ -312,6 +319,7 @@
 				CE1CBBB62AF177FB00CF7CBD /* DarkModeBootcamp.swift in Sources */,
 				CE6BE52A2AEAA30600D4753D /* ForEachBootcamp.swift in Sources */,
 				CEB7C5B32AF16ABF0001847D /* SliderBootcamp.swift in Sources */,
+				CE104B002AF5505300C0B8BB /* EnvironmentObjectBootcamp.swift in Sources */,
 				CE3C2C1A2AEC0A7800F142EA /* ButtonBootcamp.swift in Sources */,
 				CE3C2C202AEC18D200F142EA /* ExtractedSubviewsBootcamp.swift in Sources */,
 				CE8780F12AEFF88300B42006 /* TextFieldBootcamp.swift in Sources */,
