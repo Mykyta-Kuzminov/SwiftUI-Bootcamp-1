@@ -14,7 +14,7 @@ struct SwiftUI_Bootcamp_1App: App {
     
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SubmitTextFieldBootcamp()
                 .environmentObject(environmentViewModel)
         }
     }
