@@ -37,6 +37,7 @@
 		CE5744422AF65CF700B2352A /* NavigationStackBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5744412AF65CF700B2352A /* NavigationStackBootcamp.swift */; };
 		CE5744442AF6625000B2352A /* ToolbarBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5744432AF6625000B2352A /* ToolbarBootcamp.swift */; };
 		CE5744462AF665ED00B2352A /* ResizableSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5744452AF665ED00B2352A /* ResizableSheetBootcamp.swift */; };
+		CE5744482AF6698B00B2352A /* SafeAreaInsetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5744472AF6698B00B2352A /* SafeAreaInsetBootcamp.swift */; };
 		CE6BE5262AEA9A8B00D4753D /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6BE5252AEA9A8B00D4753D /* SpacerBootcamp.swift */; };
 		CE6BE5282AEA9E8100D4753D /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6BE5272AEA9E8000D4753D /* InitializerBootcamp.swift */; };
 		CE6BE52A2AEAA30600D4753D /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6BE5292AEAA30600D4753D /* ForEachBootcamp.swift */; };
@@ -105,6 +106,7 @@
 		CE5744412AF65CF700B2352A /* NavigationStackBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackBootcamp.swift; sourceTree = "<group>"; };
 		CE5744432AF6625000B2352A /* ToolbarBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarBootcamp.swift; sourceTree = "<group>"; };
 		CE5744452AF665ED00B2352A /* ResizableSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetBootcamp.swift; sourceTree = "<group>"; };
+		CE5744472AF6698B00B2352A /* SafeAreaInsetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaInsetBootcamp.swift; sourceTree = "<group>"; };
 		CE6BE5252AEA9A8B00D4753D /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		CE6BE5272AEA9E8000D4753D /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 		CE6BE5292AEAA30600D4753D /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
@@ -224,6 +226,7 @@
 				CE5744412AF65CF700B2352A /* NavigationStackBootcamp.swift */,
 				CE5744432AF6625000B2352A /* ToolbarBootcamp.swift */,
 				CE5744452AF665ED00B2352A /* ResizableSheetBootcamp.swift */,
+				CE5744472AF6698B00B2352A /* SafeAreaInsetBootcamp.swift */,
 				CEA8FA3E2AF4058400834A84 /* PropertyWrappers */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
@@ -370,6 +373,7 @@
 				CE104B042AF5583000C0B8BB /* AsyncImageBootcamp.swift in Sources */,
 				CE52E5C62AE7A7C50019BEE7 /* TextBootcamp.swift in Sources */,
 				CE52E5CC2AE7B38E0019BEE7 /* GradientBootcamp.swift in Sources */,
+				CE5744482AF6698B00B2352A /* SafeAreaInsetBootcamp.swift in Sources */,
 				CED75BD82AE939A30054C266 /* StacksBootcamp.swift in Sources */,
 				CE104B0C2AF5639700C0B8BB /* SwipeActionBootcamp.swift in Sources */,
 				CE6BE5262AEA9A8B00D4753D /* SpacerBootcamp.swift in Sources */,
