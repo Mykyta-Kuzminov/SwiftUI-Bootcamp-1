@@ -178,61 +178,12 @@
 			children = (
 				CE52E5B62AE7A7710019BEE7 /* SwiftUI_Bootcamp_1App.swift */,
 				CE52E5B82AE7A7710019BEE7 /* ContentView.swift */,
-				CE52E5C52AE7A7C50019BEE7 /* TextBootcamp.swift */,
-				CE52E5C72AE7AD5C0019BEE7 /* ShapeBootcamp.swift */,
-				CE52E5C92AE7B0FF0019BEE7 /* ColorBootcamp.swift */,
-				CE52E5CB2AE7B38E0019BEE7 /* GradientBootcamp.swift */,
-				CE52E5CD2AE7B6180019BEE7 /* IconBootcamp.swift */,
-				CE8C22EF2AE9163A0063EF5A /* ImageBootcamp.swift */,
-				CED75BD32AE930D50054C266 /* FrameBootcamp.swift */,
-				CED75BD52AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift */,
-				CED75BD72AE939A30054C266 /* StacksBootcamp.swift */,
-				CED75BD92AE93C6D0054C266 /* PaddingAndSpacerBootcamp.swift */,
-				CE6BE5252AEA9A8B00D4753D /* SpacerBootcamp.swift */,
-				CE6BE5272AEA9E8000D4753D /* InitializerBootcamp.swift */,
-				CE6BE5292AEAA30600D4753D /* ForEachBootcamp.swift */,
-				CE6BE52B2AEAA81800D4753D /* ScrollViewBootcamp.swift */,
-				CE6BE52D2AEAAC1400D4753D /* GridItemBootcamp.swift */,
-				CE3C2C172AEC062600F142EA /* SafeAreaBootcamp.swift */,
-				CE3C2C192AEC0A7800F142EA /* ButtonBootcamp.swift */,
-				CE3C2C1B2AEC0E0D00F142EA /* StateBootcamp.swift */,
-				CE3C2C1D2AEC14FB00F142EA /* ExtractedFunctionBootcamp.swift */,
-				CE3C2C1F2AEC18D200F142EA /* ExtractedSubviewsBootcamp.swift */,
-				CEDE1EB22AED1C9D0012AABC /* BindingBootcamp.swift */,
-				CEDE1EB42AED22F80012AABC /* AnimationBootcamp.swift */,
-				CEDE1EB62AED26DA0012AABC /* TransitionBootcamp.swift */,
-				CEDE1EB82AED2BBD0012AABC /* SheetsBootcamp.swift */,
-				CEDE1EBA2AED367F0012AABC /* NavigationViewBootcamp.swift */,
-				CEEB52C32AEE45FA007CD5D6 /* ListBootcamp.swift */,
-				CEEB52C52AEE98CA007CD5D6 /* AlertBootcamp.swift */,
-				CEEB52C72AEEA141007CD5D6 /* ActionSheetBootcamp.swift */,
-				CE8780F02AEFF88300B42006 /* TextFieldBootcamp.swift */,
-				CE8780F22AEFFC6C00B42006 /* TextEditorBootcamp.swift */,
-				CE8780F42AF0012400B42006 /* ToggleBootcamp.swift */,
-				CE8780F62AF006B800B42006 /* PickerBootcamp.swift */,
-				CE8780F82AF0096100B42006 /* ColorPickerBootcamp.swift */,
-				CE8780FA2AF00D2800B42006 /* DatePickerBootcamp.swift */,
-				CEB7C5B02AF165220001847D /* StepperBootcamp.swift */,
-				CEB7C5B22AF16ABF0001847D /* SliderBootcamp.swift */,
-				CE1CBBB32AF174C100CF7CBD /* TabViewBootcamp.swift */,
-				CE1CBBB52AF177FA00CF7CBD /* DarkModeBootcamp.swift */,
-				CEF5E1C82AF28A2A00A742D9 /* DocumentationBootcamp.swift */,
-				CEF5E1CA2AF296B300A742D9 /* OnAppearBootcamp.swift */,
-				CEF5E1CC2AF29C0600A742D9 /* TapGestureBootcamp.swift */,
-				CE104B032AF5583000C0B8BB /* AsyncImageBootcamp.swift */,
-				CE104B052AF55C7700C0B8BB /* MaterialsBootcamp.swift */,
-				CE104B072AF55E4400C0B8BB /* TextSelectionBootcamp.swift */,
-				CE104B092AF55F5000C0B8BB /* ButtonStyleBootcamp.swift */,
-				CE104B0B2AF5639700C0B8BB /* SwipeActionBootcamp.swift */,
-				CE104B0D2AF5652C00C0B8BB /* BadgeBootcamp.swift */,
-				CE57443D2AF653AD00B2352A /* FocusStateBootcamp.swift */,
-				CE57443F2AF65A1000B2352A /* SubmitTextFieldBootcamp.swift */,
-				CE5744412AF65CF700B2352A /* NavigationStackBootcamp.swift */,
-				CE5744432AF6625000B2352A /* ToolbarBootcamp.swift */,
-				CE5744452AF665ED00B2352A /* ResizableSheetBootcamp.swift */,
-				CE5744472AF6698B00B2352A /* SafeAreaInsetBootcamp.swift */,
-				CE5744492AF66B7900B2352A /* GroupBootcamp.swift */,
-				CE57444B2AF66CB000B2352A /* MenuBootcamp.swift */,
+				CEA9F47C2AF7A640008108E6 /* Basics */,
+				CEA9F47D2AF7A661008108E6 /* Colors */,
+				CEA9F47E2AF7A682008108E6 /* Images */,
+				CEA9F47F2AF7A716008108E6 /* Elements */,
+				CEA9F4852AF7A8E0008108E6 /* Modifiers */,
+				CEA9F4862AF7AA15008108E6 /* Refactoring */,
 				CEA8FA3E2AF4058400834A84 /* PropertyWrappers */,
 				CE52E5BA2AE7A7730019BEE7 /* Assets.xcassets */,
 				CE52E5BC2AE7A7730019BEE7 /* SwiftUI_Bootcamp_1.entitlements */,
@@ -252,15 +203,144 @@
 		CEA8FA3E2AF4058400834A84 /* PropertyWrappers */ = {
 			isa = PBXGroup;
 			children = (
-				CEA8FA382AF4049700834A84 /* Model.swift */,
-				CEA8FA3A2AF404F000834A84 /* ViewModel.swift */,
-				CEA8FA3C2AF4057A00834A84 /* StateObjectBootcamp.swift */,
-				CEA8FA3F2AF409A700834A84 /* ObservedObjectBootcamp.swift */,
-				CE104AFD2AF54F3B00C0B8BB /* EnvironmentViewModel.swift */,
-				CE104AFF2AF5505300C0B8BB /* EnvironmentObjectBootcamp.swift */,
-				CE104B012AF553A100C0B8BB /* AppStorageBootcamp.swift */,
+				CEA9F4842AF7A82D008108E6 /* PropertyWrappers */,
+				CEA9F4832AF7A820008108E6 /* ViewModels */,
+				CEA9F4822AF7A81A008108E6 /* Models */,
 			);
 			path = PropertyWrappers;
+			sourceTree = "<group>";
+		};
+		CEA9F47C2AF7A640008108E6 /* Basics */ = {
+			isa = PBXGroup;
+			children = (
+				CE52E5C52AE7A7C50019BEE7 /* TextBootcamp.swift */,
+				CE52E5C72AE7AD5C0019BEE7 /* ShapeBootcamp.swift */,
+				CED75BD32AE930D50054C266 /* FrameBootcamp.swift */,
+				CED75BD52AE9335F0054C266 /* BackgroundAndOverlayBootcamp.swift */,
+				CE3C2C172AEC062600F142EA /* SafeAreaBootcamp.swift */,
+				CED75BD72AE939A30054C266 /* StacksBootcamp.swift */,
+				CED75BD92AE93C6D0054C266 /* PaddingAndSpacerBootcamp.swift */,
+				CE6BE5252AEA9A8B00D4753D /* SpacerBootcamp.swift */,
+				CE6BE5272AEA9E8000D4753D /* InitializerBootcamp.swift */,
+				CE6BE5292AEAA30600D4753D /* ForEachBootcamp.swift */,
+				CE1CBBB52AF177FA00CF7CBD /* DarkModeBootcamp.swift */,
+				CEF5E1C82AF28A2A00A742D9 /* DocumentationBootcamp.swift */,
+			);
+			path = Basics;
+			sourceTree = "<group>";
+		};
+		CEA9F47D2AF7A661008108E6 /* Colors */ = {
+			isa = PBXGroup;
+			children = (
+				CE52E5C92AE7B0FF0019BEE7 /* ColorBootcamp.swift */,
+				CE52E5CB2AE7B38E0019BEE7 /* GradientBootcamp.swift */,
+				CE104B052AF55C7700C0B8BB /* MaterialsBootcamp.swift */,
+			);
+			path = Colors;
+			sourceTree = "<group>";
+		};
+		CEA9F47E2AF7A682008108E6 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				CE52E5CD2AE7B6180019BEE7 /* IconBootcamp.swift */,
+				CE8C22EF2AE9163A0063EF5A /* ImageBootcamp.swift */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		CEA9F47F2AF7A716008108E6 /* Elements */ = {
+			isa = PBXGroup;
+			children = (
+				CE6BE52B2AEAA81800D4753D /* ScrollViewBootcamp.swift */,
+				CE6BE52D2AEAAC1400D4753D /* GridItemBootcamp.swift */,
+				CE3C2C192AEC0A7800F142EA /* ButtonBootcamp.swift */,
+				CEDE1EB82AED2BBD0012AABC /* SheetsBootcamp.swift */,
+				CEDE1EBA2AED367F0012AABC /* NavigationViewBootcamp.swift */,
+				CEEB52C32AEE45FA007CD5D6 /* ListBootcamp.swift */,
+				CEEB52C52AEE98CA007CD5D6 /* AlertBootcamp.swift */,
+				CEEB52C72AEEA141007CD5D6 /* ActionSheetBootcamp.swift */,
+				CE8780F02AEFF88300B42006 /* TextFieldBootcamp.swift */,
+				CE8780F22AEFFC6C00B42006 /* TextEditorBootcamp.swift */,
+				CE8780F42AF0012400B42006 /* ToggleBootcamp.swift */,
+				CEB7C5B02AF165220001847D /* StepperBootcamp.swift */,
+				CEB7C5B22AF16ABF0001847D /* SliderBootcamp.swift */,
+				CE104B032AF5583000C0B8BB /* AsyncImageBootcamp.swift */,
+				CE5744412AF65CF700B2352A /* NavigationStackBootcamp.swift */,
+				CEDE1EB42AED22F80012AABC /* AnimationBootcamp.swift */,
+				CE1CBBB32AF174C100CF7CBD /* TabViewBootcamp.swift */,
+				CE57444B2AF66CB000B2352A /* MenuBootcamp.swift */,
+				CE5744492AF66B7900B2352A /* GroupBootcamp.swift */,
+				CEA9F4812AF7A79D008108E6 /* Pickers */,
+			);
+			path = Elements;
+			sourceTree = "<group>";
+		};
+		CEA9F4812AF7A79D008108E6 /* Pickers */ = {
+			isa = PBXGroup;
+			children = (
+				CE8780F62AF006B800B42006 /* PickerBootcamp.swift */,
+				CE8780F82AF0096100B42006 /* ColorPickerBootcamp.swift */,
+				CE8780FA2AF00D2800B42006 /* DatePickerBootcamp.swift */,
+			);
+			path = Pickers;
+			sourceTree = "<group>";
+		};
+		CEA9F4822AF7A81A008108E6 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CEA8FA382AF4049700834A84 /* Model.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CEA9F4832AF7A820008108E6 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				CEA8FA3A2AF404F000834A84 /* ViewModel.swift */,
+				CE104AFD2AF54F3B00C0B8BB /* EnvironmentViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		CEA9F4842AF7A82D008108E6 /* PropertyWrappers */ = {
+			isa = PBXGroup;
+			children = (
+				CEA8FA3C2AF4057A00834A84 /* StateObjectBootcamp.swift */,
+				CEA8FA3F2AF409A700834A84 /* ObservedObjectBootcamp.swift */,
+				CE104AFF2AF5505300C0B8BB /* EnvironmentObjectBootcamp.swift */,
+				CE104B012AF553A100C0B8BB /* AppStorageBootcamp.swift */,
+				CE3C2C1B2AEC0E0D00F142EA /* StateBootcamp.swift */,
+				CEDE1EB22AED1C9D0012AABC /* BindingBootcamp.swift */,
+				CE57443D2AF653AD00B2352A /* FocusStateBootcamp.swift */,
+			);
+			path = PropertyWrappers;
+			sourceTree = "<group>";
+		};
+		CEA9F4852AF7A8E0008108E6 /* Modifiers */ = {
+			isa = PBXGroup;
+			children = (
+				CEDE1EB62AED26DA0012AABC /* TransitionBootcamp.swift */,
+				CEF5E1CC2AF29C0600A742D9 /* TapGestureBootcamp.swift */,
+				CEF5E1CA2AF296B300A742D9 /* OnAppearBootcamp.swift */,
+				CE104B072AF55E4400C0B8BB /* TextSelectionBootcamp.swift */,
+				CE104B0D2AF5652C00C0B8BB /* BadgeBootcamp.swift */,
+				CE104B0B2AF5639700C0B8BB /* SwipeActionBootcamp.swift */,
+				CE104B092AF55F5000C0B8BB /* ButtonStyleBootcamp.swift */,
+				CE5744432AF6625000B2352A /* ToolbarBootcamp.swift */,
+				CE57443F2AF65A1000B2352A /* SubmitTextFieldBootcamp.swift */,
+				CE5744452AF665ED00B2352A /* ResizableSheetBootcamp.swift */,
+				CE5744472AF6698B00B2352A /* SafeAreaInsetBootcamp.swift */,
+			);
+			path = Modifiers;
+			sourceTree = "<group>";
+		};
+		CEA9F4862AF7AA15008108E6 /* Refactoring */ = {
+			isa = PBXGroup;
+			children = (
+				CE3C2C1D2AEC14FB00F142EA /* ExtractedFunctionBootcamp.swift */,
+				CE3C2C1F2AEC18D200F142EA /* ExtractedSubviewsBootcamp.swift */,
+			);
+			path = Refactoring;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
